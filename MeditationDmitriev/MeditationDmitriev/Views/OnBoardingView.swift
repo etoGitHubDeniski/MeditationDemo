@@ -28,7 +28,6 @@ struct OnBoardingView: View {
             VStack {
                 Image("LogoWithShadow")
                 Text("Привет")
-                    .
                 Text("Наслаждайся отборочными.")
                 Text("Будь внимателен.")
                 Text("Делай хорошо.")
